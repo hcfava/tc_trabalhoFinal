@@ -39,7 +39,7 @@ public class App {
 		}
 		
 		
-		System.out.println();
+		System.out.println(System.lineSeparator());
 		System.out.println("-----------SAIDA NORMA----------");
 		for (int i = 0; i < lstNorma.size(); i++) {
 			System.out.println(lstNorma.get(i));
