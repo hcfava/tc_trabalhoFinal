@@ -27,8 +27,8 @@ public class App {
 		
 		composta.rotulosComposta(lstRotulos, lstSaida);
 		
-		int a = 2, b = 0;
-		norma.passoAPasso(lstRotulos, lstNorma, a, b);
+		int a = 2, b = 2, c = 0;
+		norma.passoAPasso(lstRotulos, lstNorma, a, b, c);
 		
 		
 		System.out.println(System.lineSeparator());
